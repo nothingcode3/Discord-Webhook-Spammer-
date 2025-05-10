@@ -3,7 +3,11 @@
 This is a Python-based **Discord Webhook Spammer** that supports both:
 
 - ✅ **Simple messages**
+ ![Simple Message Example](https://imgur.com/kfo6nFa)
+
 - 💎 **Advanced Embed replies** with title, description, footer, color, image/GIF support
+![Embed Example](https://imgur.com/kbzfMlh)
+
 
 Made for educational purposes and automation testing — use responsibly and **never for spam on public servers**.
 

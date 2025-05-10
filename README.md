@@ -3,11 +3,11 @@
 This is a Python-based **Discord Webhook Spammer** that supports both:
 
 # ✅ **Simple messages**
-<img src="https://i.imgur.com/kfo6nFa.png" width="500"/>
+<img src="https://i.imgur.com/kfo6nFa.png" width="700"/>
 
 
 - 💎 **Advanced Embed replies** with title, description, footer, color, image/GIF support
-![Embed Example](https://i.imgur.com/kbzfMlh.png)
+<img src="https://i.imgur.com/kbzfMlh.png" width="700"/>
 
 
 Made for educational purposes and automation testing — use responsibly and **never for spam on public servers**.

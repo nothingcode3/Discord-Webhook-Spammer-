@@ -2,11 +2,11 @@
 
 This is a Python-based **Discord Webhook Spammer** that supports both:
 
-#### ✅ **Simple messages**
+### -✅ **Simple messages**
 <img src="https://i.imgur.com/kfo6nFa.png" width="700"/>
 
 
-#### 💎 **Advanced Embed replies** with title, description, footer, color, image/GIF support
+### -💎 **Advanced Embed replies** with title, description, footer, color, image/GIF support
 <img src="https://i.imgur.com/kbzfMlh.png" width="700"/>
 
 
